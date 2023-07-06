@@ -21,4 +21,7 @@ func main() {
 
 	utils.PlusLogger("Pointer")
 	modules.Pointer()
+
+	utils.PlusLogger("Interface")
+	modules.Interface()
 }
