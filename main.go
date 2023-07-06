@@ -1,8 +1,8 @@
 package main
 
 import (
-	"golang/modules"
-	"golang/utils"
+	"go-101/modules"
+	"go-101/utils"
 )
 
 func main() {
